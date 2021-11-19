@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @boubou-cmoi
-I'm currently a Quality Engineer and I'm learning everything I find with OpenClassroom about programming !
+I'm currently a Quality Engineer and I'm learning everything I find on OpenClassroom about programming !
 
-- 👀 I’m interested in many thing to be the best version of myself : reading, traveling, etc.
+- 👀 I’m interested in many thing to become the best version of myself : reading, traveling, etc.
 
 - 🌱 I’m currently learning Web Development
 <!--- - 💞️ I’m looking to collaborate on ... --->
